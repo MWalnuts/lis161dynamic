@@ -1,0 +1,145 @@
+.home {background: brown;}
+h1 { 
+   position: absolute; 
+   top: 400px; 
+   left: 680px; 
+   width: 100%; 
+}
+
+h1 span { 
+   color: white; 
+   font: bold 70px Helvetica, Sans-Serif; 
+   letter-spacing: 1px;  
+   padding: 10px; 
+}
+
+p {font-size: 18px;}
+.row {
+   margin-left: 50px;
+   text-align: justify;
+}
+
+.btn {
+   position: absolute;
+   top: 700px; 
+   left: 260px;  
+    border: none;
+    color: white;
+    padding: 14px 28px;
+    font: bold 30px Helvetica;
+    cursor: pointer;
+}
+.keyboard {background-color: #2196F3;}
+.keyboard1 {background-color: #2196F3;}
+.keyboard:hover {background-color: #0b7dda;}
+.mouse {
+   left: 500px;
+   background-color: #22b786;}
+.mouse:hover {background-color: #117756;}
+.mouse1 {background-color: #22b786;}
+.headset {
+   left: 700px;
+   background-color: #b22a58;}
+.headset1 {background-color: #b22a58;}
+.headset:hover {background-color: #841b3f;}
+.other {
+   left: 920px;
+   background-color: #7fb208;}
+.other1 {background-color: #7fb208;}
+.other:hover {background-color: #517204;}
+
+
+
+.dropbtn {
+   background-color: Transparent;
+    background-repeat:no-repeat;
+    color: white;
+    font: bold 40px Helvetica;
+    padding: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #d5ef99;
+    color: black;
+}
+
+
+.dropdown {
+    position: absolute;
+    top: 50px;
+   left: 100px;
+    display: inline-block;
+}
+
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    font: 18px Helvetica;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown2 {
+    position: absolute;
+    top: 50px;
+   left: 300px;
+    display: inline-block;
+}
+
+.dropdown-content2 {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    font: 18px Helvetica;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+
+.dropdown-content2 a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+
+.dropdown-content2 a:hover {background-color: #f1f1f1}
+
+.dropbtn2 {
+   background-color: Transparent;
+    background-repeat:no-repeat;
+    color: white;
+    font: bold 40px Helvetica;
+    padding: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+
+.dropbtn2:hover, .dropbtn2:focus {
+    background-color: #d5ef99;
+    color: black;
+}
+
+
+
+.show {display:block;} 
